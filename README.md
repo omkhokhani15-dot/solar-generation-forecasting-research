@@ -58,7 +58,6 @@ This figure describes the associated research work; the underlying production da
 `demo/synthetic_forecasting_demo.py` contains a small, reproducible demonstration using synthetic solar-generation data. It is intentionally independent of the production implementation.
 
 ## Repository structure
-Author
 ```text
 solar-generation-forecasting-research/
 ├── README.md
