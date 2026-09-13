@@ -71,11 +71,7 @@ solar-generation-forecasting-research/
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
-```
-Author
 
-Om Khokhani
-Research Analyst | Renewable Energy & Power Markets | Quantitative Research
 
 
 
